@@ -1,5 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksrilal" alt="ksrilal" /> </p>
 
+<div align="center">
+  <img src="https://github.com/ksrilal/ksrilal/blob/main/wall.jpg" style="max-width: 100%; height: auto; border-radius: 10px;"/>
+</div>
+
 ### Hi there 👋
   -  🔭 I’m Keerthi Srilal. Thanks for visiting my github.
   -  📫 How to reach me :<a href="https://www.linkedin.com/in/ksrilal/" > LinkedIn</a> 
