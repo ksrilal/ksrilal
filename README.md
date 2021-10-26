@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksrilal" alt="ksrilal" /> </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/ksrilal/ksrilal/blob/main/wall - Copy.jpg" />
-</div>
+</div> -->
 
 ### Hi there 👋
   -  🔭 I’m Keerthi Srilal. Thanks for visiting my github.
